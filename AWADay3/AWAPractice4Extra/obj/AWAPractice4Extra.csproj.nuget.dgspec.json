@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ingri\\Strumpan-the-coder\\AWADay3Repo\\AWADay3\\AWAPractice401\\AWAPractice401.csproj": {}
+    "C:\\Users\\ingri\\Strumpan-the-coder\\AWADay3Repo\\AWADay3\\AWAPractice4Extra\\AWAPractice4Extra.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ingri\\Strumpan-the-coder\\AWADay3Repo\\AWADay3\\AWAPractice401\\AWAPractice401.csproj": {
+    "C:\\Users\\ingri\\Strumpan-the-coder\\AWADay3Repo\\AWADay3\\AWAPractice4Extra\\AWAPractice4Extra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ingri\\Strumpan-the-coder\\AWADay3Repo\\AWADay3\\AWAPractice401\\AWAPractice401.csproj",
-        "projectName": "AWAPractice401",
-        "projectPath": "C:\\Users\\ingri\\Strumpan-the-coder\\AWADay3Repo\\AWADay3\\AWAPractice401\\AWAPractice401.csproj",
+        "projectUniqueName": "C:\\Users\\ingri\\Strumpan-the-coder\\AWADay3Repo\\AWADay3\\AWAPractice4Extra\\AWAPractice4Extra.csproj",
+        "projectName": "AWAPractice4Extra",
+        "projectPath": "C:\\Users\\ingri\\Strumpan-the-coder\\AWADay3Repo\\AWADay3\\AWAPractice4Extra\\AWAPractice4Extra.csproj",
         "packagesPath": "C:\\Users\\ingri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ingri\\Strumpan-the-coder\\AWADay3Repo\\AWADay3\\AWAPractice401\\obj\\",
+        "outputPath": "C:\\Users\\ingri\\Strumpan-the-coder\\AWADay3Repo\\AWADay3\\AWAPractice4Extra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ingri\\AppData\\Roaming\\NuGet\\NuGet.Config",

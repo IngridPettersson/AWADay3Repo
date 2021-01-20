@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWADay3", "AWADay3\AWADay3.csproj", "{1E3373EC-00A4-4B09-9286-236DDCE2AE3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWADay3", "AWADay3\AWADay3.csproj", "{1E3373EC-00A4-4B09-9286-236DDCE2AE3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWAPractice401", "AWAPractice401\AWAPractice401.csproj", "{F2D919A3-1084-4647-AFB9-406D7904D22A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWAPractice401", "AWAPractice401\AWAPractice401.csproj", "{F2D919A3-1084-4647-AFB9-406D7904D22A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWAPractice402", "AWAPractice402\AWAPractice402.csproj", "{FE7402D8-6F41-42CE-95C0-3F96080A8E18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWAPractice4Extra", "AWAPractice4Extra\AWAPractice4Extra.csproj", "{B77C1BBA-9EBE-41FE-85A4-BFB8B7EE3A5E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{F2D919A3-1084-4647-AFB9-406D7904D22A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2D919A3-1084-4647-AFB9-406D7904D22A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2D919A3-1084-4647-AFB9-406D7904D22A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE7402D8-6F41-42CE-95C0-3F96080A8E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE7402D8-6F41-42CE-95C0-3F96080A8E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE7402D8-6F41-42CE-95C0-3F96080A8E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE7402D8-6F41-42CE-95C0-3F96080A8E18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B77C1BBA-9EBE-41FE-85A4-BFB8B7EE3A5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B77C1BBA-9EBE-41FE-85A4-BFB8B7EE3A5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B77C1BBA-9EBE-41FE-85A4-BFB8B7EE3A5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B77C1BBA-9EBE-41FE-85A4-BFB8B7EE3A5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

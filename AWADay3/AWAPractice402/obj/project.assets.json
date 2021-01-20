@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ingri\\Strumpan-the-coder\\AWADay3Repo\\AWADay3\\AWADay3\\AWADay3.csproj",
-      "projectName": "AWADay3",
-      "projectPath": "C:\\Users\\ingri\\Strumpan-the-coder\\AWADay3Repo\\AWADay3\\AWADay3\\AWADay3.csproj",
+      "projectUniqueName": "C:\\Users\\ingri\\Strumpan-the-coder\\AWADay3Repo\\AWADay3\\AWAPractice402\\AWAPractice402.csproj",
+      "projectName": "AWAPractice402",
+      "projectPath": "C:\\Users\\ingri\\Strumpan-the-coder\\AWADay3Repo\\AWADay3\\AWAPractice402\\AWAPractice402.csproj",
       "packagesPath": "C:\\Users\\ingri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ingri\\Strumpan-the-coder\\AWADay3Repo\\AWADay3\\AWADay3\\obj\\",
+      "outputPath": "C:\\Users\\ingri\\Strumpan-the-coder\\AWADay3Repo\\AWADay3\\AWAPractice402\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ingri\\AppData\\Roaming\\NuGet\\NuGet.Config",
