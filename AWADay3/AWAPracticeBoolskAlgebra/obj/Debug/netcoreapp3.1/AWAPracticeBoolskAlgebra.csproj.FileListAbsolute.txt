@@ -1,0 +1,13 @@
+C:\Users\ingri\Strumpan-the-coder\AWADay3Repo\AWADay3\AWAPracticeBoolskAlgebra\bin\Debug\netcoreapp3.1\AWAPracticeBoolskAlgebra.exe
+C:\Users\ingri\Strumpan-the-coder\AWADay3Repo\AWADay3\AWAPracticeBoolskAlgebra\bin\Debug\netcoreapp3.1\AWAPracticeBoolskAlgebra.deps.json
+C:\Users\ingri\Strumpan-the-coder\AWADay3Repo\AWADay3\AWAPracticeBoolskAlgebra\bin\Debug\netcoreapp3.1\AWAPracticeBoolskAlgebra.runtimeconfig.json
+C:\Users\ingri\Strumpan-the-coder\AWADay3Repo\AWADay3\AWAPracticeBoolskAlgebra\bin\Debug\netcoreapp3.1\AWAPracticeBoolskAlgebra.runtimeconfig.dev.json
+C:\Users\ingri\Strumpan-the-coder\AWADay3Repo\AWADay3\AWAPracticeBoolskAlgebra\bin\Debug\netcoreapp3.1\AWAPracticeBoolskAlgebra.dll
+C:\Users\ingri\Strumpan-the-coder\AWADay3Repo\AWADay3\AWAPracticeBoolskAlgebra\bin\Debug\netcoreapp3.1\AWAPracticeBoolskAlgebra.pdb
+C:\Users\ingri\Strumpan-the-coder\AWADay3Repo\AWADay3\AWAPracticeBoolskAlgebra\obj\Debug\netcoreapp3.1\AWAPracticeBoolskAlgebra.csprojAssemblyReference.cache
+C:\Users\ingri\Strumpan-the-coder\AWADay3Repo\AWADay3\AWAPracticeBoolskAlgebra\obj\Debug\netcoreapp3.1\AWAPracticeBoolskAlgebra.AssemblyInfoInputs.cache
+C:\Users\ingri\Strumpan-the-coder\AWADay3Repo\AWADay3\AWAPracticeBoolskAlgebra\obj\Debug\netcoreapp3.1\AWAPracticeBoolskAlgebra.AssemblyInfo.cs
+C:\Users\ingri\Strumpan-the-coder\AWADay3Repo\AWADay3\AWAPracticeBoolskAlgebra\obj\Debug\netcoreapp3.1\AWAPracticeBoolskAlgebra.csproj.CoreCompileInputs.cache
+C:\Users\ingri\Strumpan-the-coder\AWADay3Repo\AWADay3\AWAPracticeBoolskAlgebra\obj\Debug\netcoreapp3.1\AWAPracticeBoolskAlgebra.dll
+C:\Users\ingri\Strumpan-the-coder\AWADay3Repo\AWADay3\AWAPracticeBoolskAlgebra\obj\Debug\netcoreapp3.1\AWAPracticeBoolskAlgebra.pdb
+C:\Users\ingri\Strumpan-the-coder\AWADay3Repo\AWADay3\AWAPracticeBoolskAlgebra\obj\Debug\netcoreapp3.1\AWAPracticeBoolskAlgebra.genruntimeconfig.cache

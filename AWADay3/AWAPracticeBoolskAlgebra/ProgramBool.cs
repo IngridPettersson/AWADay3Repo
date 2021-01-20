@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace AWAPracticeBoolskAlgebra
 {
@@ -55,6 +56,32 @@ namespace AWAPracticeBoolskAlgebra
             frukt.FruktNamn = "Bartlett";
             frukt.PrisPerKg = 32;
             frukter[7] = frukt;
+
+            //4. Skapa en for loop som endast listar samtliga frukter med ett pris lägre än 30
+            //kronor.
+
+            Console.WriteLine($"Frukter under 30: ");
+
+            for (int i = 0; i < frukter.Length; i++)
+            {
+                if (frukt.PrisPerKg < 30)
+                {
+                    Console.WriteLine($"{frukter[i].FruktTyp} av typen {frukter[i].FruktNamn}");
+                }
+            }
+
+            //5. Skapa en for loop som endast listar samtliga apelsiner som kostar mer än 25
+            //kronor.
+
+            Console.WriteLine($"Apelsinsorter över 25: ");
+
+            for (int i = 0; i < frukter.Length; i++)
+            {
+                if (frukt.FruktTyp == "Apelsin" && frukt.PrisPerKg > 25)
+                {
+                    Console.WriteLine($"{frukt.FruktNamn}");
+                }
+            }
 
         }
     }
