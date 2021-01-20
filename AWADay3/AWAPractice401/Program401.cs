@@ -2,7 +2,7 @@
 
 namespace AWAPractice401
 {
-    class Program
+    class Program401
     {
         static void Main(string[] args)
         {

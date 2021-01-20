@@ -1,0 +1,13 @@
+C:\Users\ingri\Strumpan-the-coder\AWADay3Repo\AWADay3\AWAPractice4Extra\bin\Debug\netcoreapp3.1\AWAPractice4Extra.exe
+C:\Users\ingri\Strumpan-the-coder\AWADay3Repo\AWADay3\AWAPractice4Extra\bin\Debug\netcoreapp3.1\AWAPractice4Extra.deps.json
+C:\Users\ingri\Strumpan-the-coder\AWADay3Repo\AWADay3\AWAPractice4Extra\bin\Debug\netcoreapp3.1\AWAPractice4Extra.runtimeconfig.json
+C:\Users\ingri\Strumpan-the-coder\AWADay3Repo\AWADay3\AWAPractice4Extra\bin\Debug\netcoreapp3.1\AWAPractice4Extra.runtimeconfig.dev.json
+C:\Users\ingri\Strumpan-the-coder\AWADay3Repo\AWADay3\AWAPractice4Extra\bin\Debug\netcoreapp3.1\AWAPractice4Extra.dll
+C:\Users\ingri\Strumpan-the-coder\AWADay3Repo\AWADay3\AWAPractice4Extra\bin\Debug\netcoreapp3.1\AWAPractice4Extra.pdb
+C:\Users\ingri\Strumpan-the-coder\AWADay3Repo\AWADay3\AWAPractice4Extra\obj\Debug\netcoreapp3.1\AWAPractice4Extra.csprojAssemblyReference.cache
+C:\Users\ingri\Strumpan-the-coder\AWADay3Repo\AWADay3\AWAPractice4Extra\obj\Debug\netcoreapp3.1\AWAPractice4Extra.AssemblyInfoInputs.cache
+C:\Users\ingri\Strumpan-the-coder\AWADay3Repo\AWADay3\AWAPractice4Extra\obj\Debug\netcoreapp3.1\AWAPractice4Extra.AssemblyInfo.cs
+C:\Users\ingri\Strumpan-the-coder\AWADay3Repo\AWADay3\AWAPractice4Extra\obj\Debug\netcoreapp3.1\AWAPractice4Extra.csproj.CoreCompileInputs.cache
+C:\Users\ingri\Strumpan-the-coder\AWADay3Repo\AWADay3\AWAPractice4Extra\obj\Debug\netcoreapp3.1\AWAPractice4Extra.dll
+C:\Users\ingri\Strumpan-the-coder\AWADay3Repo\AWADay3\AWAPractice4Extra\obj\Debug\netcoreapp3.1\AWAPractice4Extra.pdb
+C:\Users\ingri\Strumpan-the-coder\AWADay3Repo\AWADay3\AWAPractice4Extra\obj\Debug\netcoreapp3.1\AWAPractice4Extra.genruntimeconfig.cache

@@ -10,3 +10,4 @@ C:\Users\ingri\Strumpan-the-coder\AWADay3Repo\AWADay3\AWAPractice402\obj\Debug\n
 C:\Users\ingri\Strumpan-the-coder\AWADay3Repo\AWADay3\AWAPractice402\obj\Debug\netcoreapp3.1\AWAPractice402.dll
 C:\Users\ingri\Strumpan-the-coder\AWADay3Repo\AWADay3\AWAPractice402\obj\Debug\netcoreapp3.1\AWAPractice402.pdb
 C:\Users\ingri\Strumpan-the-coder\AWADay3Repo\AWADay3\AWAPractice402\obj\Debug\netcoreapp3.1\AWAPractice402.genruntimeconfig.cache
+C:\Users\ingri\Strumpan-the-coder\AWADay3Repo\AWADay3\AWAPractice402\obj\Debug\netcoreapp3.1\AWAPractice402.csprojAssemblyReference.cache

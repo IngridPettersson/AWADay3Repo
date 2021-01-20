@@ -2,7 +2,7 @@
 
 namespace AWADay3
 {
-    class Program
+    class ProgramDay3
     {
         static void Main(string[] args)
         {
